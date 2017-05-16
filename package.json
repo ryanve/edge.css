@@ -1,0 +1,28 @@
+{
+  "name": "edge.css",
+  "version": "0.0.0",
+  "description": "Functional CSS edges",
+  "scripts": {
+    "prepare": "postcss index.css --use postcss-import --no-map --output edge.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/edge.css.git"
+  },
+  "keywords": [
+    "css",
+    "edges",
+    "position",
+    "functional-css"
+  ],
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanve/edge.css/issues"
+  },
+  "homepage": "https://github.com/ryanve/edge.css#readme",
+  "devDependencies": {
+    "postcss-cli": "^4.0.0",
+    "postcss-import": "^10.0.0"
+  }
+}
