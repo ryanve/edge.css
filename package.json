@@ -1,6 +1,6 @@
 {
   "name": "edge.css",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Functional CSS edges",
   "scripts": {
     "prepare": "postcss index.css --use postcss-import --no-map --output edge.css"
