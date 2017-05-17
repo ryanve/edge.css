@@ -1,15 +1,4 @@
-.top-auto {
-  top: auto;
-}
-
-.left-auto {
-  left: auto;
-}
-
-.right-auto {
-  right: auto;
-}
-
-.bottom-auto {
-  bottom: auto;
-}
+.top-auto { top: auto }
+.left-auto { left: auto }
+.right-auto { right: auto }
+.bottom-auto { bottom: auto }
