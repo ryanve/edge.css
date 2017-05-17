@@ -15,7 +15,7 @@ Functional CSS edges for use with `position`
 - `.right-auto`
 - `.bottom-auto`
 
-## composing
+### composing
 
 Classes here are listed in order. `.edge-` classes affect all 4 edges. The others affect individual edges and are defined later such that `class="edge-0 top-auto"` will compose to `top: auto; left: 0; right: 0; bottom: 0;`
 
