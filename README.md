@@ -35,4 +35,10 @@ npm install edge.css
 
 ## related
 
-[position.css](https://github.com/ryanve/position.css)
+This module was made to work well with [position.css](https://github.com/ryanve/position.css)
+
+### example
+
+```
+<div class="absolute edge-0">I fill my container</div>
+```
