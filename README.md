@@ -21,6 +21,12 @@ Functional CSS edges for use with `position`
 
 ## setup
 
+### install
+
+```
+npm install edge.css
+```
+
 ### import
 
 ```
