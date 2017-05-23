@@ -4,8 +4,6 @@ Functional CSS edges for use with `position`
 
 ## classes
 
-- `.edge-0`
-- `.edge-auto`
 - `.top-0`
 - `.left-0`
 - `.right-0`
@@ -14,10 +12,6 @@ Functional CSS edges for use with `position`
 - `.left-auto`
 - `.right-auto`
 - `.bottom-auto`
-
-### composing
-
-[Classes](#classes) are listed in order. `.edge-` classes affect all 4 edges. The others affect individual edges and are defined later such that `class="edge-0 top-auto"` will compose to `top: auto; left: 0; right: 0; bottom: 0;`
 
 ## setup
 
@@ -40,5 +34,5 @@ This module was made to work well with [position.css](https://github.com/ryanve/
 ### example
 
 ```
-<div class="absolute edge-0">I fill my container</div>
+<div class="absolute top-0 left-0 right-0 bottom-0">I fill my container</div>
 ```
