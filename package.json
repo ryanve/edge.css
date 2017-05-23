@@ -4,6 +4,7 @@
   "description": "Functional CSS edges",
   "author": "Ryan Van Etten",
   "license": "ISC",
+  "main": "edge.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryanve/edge.css.git"
